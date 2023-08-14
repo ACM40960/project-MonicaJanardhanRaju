@@ -25,7 +25,10 @@ The Python code in this repository leverages **scikit-learn** and other relevant
 
   The code provides a comprehensive evaluation of each model's performance using various metrics like accuracy, precision, recall, and F1-score.
 
-  ## Usage
+## Usage
+
+  ![Static Badge](https://img.shields.io/badge/python-3?logo=python&logoColor=%2336454F&labelColor=%23808080)    ![Static Badge](https://img.shields.io/badge/jupyter-lab?logo=jupyter&labelColor=%2336454F)   
+  
 1. Download this Jupyter Notebook to your local machine.
 2. Install the required dependencies mentioned below.
 3. Run the notebook cells step-by-step to
